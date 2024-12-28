@@ -15,7 +15,7 @@ This project compares the performance of two popular machine learning algorithms
 ## How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/KNN_NaiveBayes_Comparison.git
+   git clone https://github.com/guided2000/KNN_NaiveBayes_Comparison.git
    ```  
 2. Open the Jupyter Notebook:  
    ```bash
